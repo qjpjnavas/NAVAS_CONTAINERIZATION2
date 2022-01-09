@@ -2,7 +2,7 @@
 docker_repo: docker-ce.repo
 
 # Docker user
-docker_user: inbguzman
+docker_user: qjpjnavas
 
 # WEB SERVER
 web_docker_img_name: web
